@@ -10,5 +10,5 @@
 - 📫 How to reach me: LinkedIn [https://www.linkedin.com/in/krishnadev-adhikari-danuwar/]
 - 😄 Pronouns: (He/Him)
 - ⚡ Fun fact: Life
-- <img src="https://github-readme-stats.vercel.app/api?username=KrishnadevAD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+- <img src="https://github-readme-stats.vercel.app/api?username=KrishnadevAD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=023020">
 
