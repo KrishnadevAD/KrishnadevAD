@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on MY Dream to Become Data Scientist
+- 🔭 I’m currently working on MY Dream. 
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on team work
 - 🤔 I’m looking for Data Engineering /Data Scientist Role
