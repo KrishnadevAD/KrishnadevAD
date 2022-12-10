@@ -1,4 +1,4 @@
-### Hi  👋, I'm KrishnaDev Adhikari  
+### Hi  👋, I'm Krishnadev Adhikari  
 
 
 
