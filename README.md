@@ -9,13 +9,14 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **on Team work**
+- 👯 I’m looking to collaborate **on New Project**
 
 - 🤝 I’m looking for **Data engineering/Data scientist role**
 
 - 💬 Ask me about **Data**
 
 - 📫 How to reach me **74krishnadev@gmail.com**
+- 😄 Pronouns: (He/Him)
 
 - ⚡ Fun fact **Life**
 
