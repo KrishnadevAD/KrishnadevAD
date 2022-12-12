@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/@krishnadevadhik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@krishnadevadhik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/krishnadev-adhikari-danuwar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnadev adhikari danuwar" height="30" width="40" /></a>
-<a href="https://kaggle.com/krishna dev adhikari danuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishna dev adhikari danuwar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/krishnadevadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishna dev adhikari danuwar" height="30" width="40" /></a>
 <a href="https://instagram.com/krishnadev.adhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishnadev.adhikari" height="30" width="40" /></a>
 </p>
 
