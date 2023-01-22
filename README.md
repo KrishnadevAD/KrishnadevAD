@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **my Dream**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate **on New Project**
 
-- 🤝 I’m looking for **Data engineering/Data scientist role**
+- 🤝 I’m looking for **Data engineer/Machine Learning Engineer/Data scientist role**
 
 - 💬 Ask me about **Data**
 
